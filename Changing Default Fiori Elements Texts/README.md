@@ -21,8 +21,8 @@ i18n.properties
 i18n/ListReport/[entitySet]/POHeaders/i18n.properties
 i18n/ObjectPage/[entitySet]/i18n.properties
 i18n/ObjectPage/[subEntitySet]/i18n.properties
-**Note**
-For object pages, the number of i18n files corresponds to the number of object pages defined in the app.
+
+**Note** : For object pages, the number of i18n files corresponds to the number of object pages defined in the app.
 
 
 
