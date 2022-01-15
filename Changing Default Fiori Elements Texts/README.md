@@ -51,3 +51,10 @@ Example:
 ```
 
 The URL reflects the folder path to the resource model. The model's name, i18n|sap.suite.ui.generic.template.ObjectPage|POHeaders, is separated by lines used to identify the specific template component and entity set for which the resource model can be enhanced by editing the i18n.properties file.
+
+
+
+### Reference (Standard i18n)
+- [List Report](https://raw.githubusercontent.com/deepakjoshy/Fiori/main/Changing%20Default%20Fiori%20Elements%20Texts/ListReport-i18n.properties.txt)
+- [Object Page](https://raw.githubusercontent.com/deepakjoshy/Fiori/main/Changing%20Default%20Fiori%20Elements%20Texts/ObjectPage-i18n.properties.txt)
+- [Quick Create](https://raw.githubusercontent.com/deepakjoshy/Fiori/main/Changing%20Default%20Fiori%20Elements%20Texts/QuickCreate-i18n.properties.txt)
